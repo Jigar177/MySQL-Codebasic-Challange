@@ -1,4 +1,4 @@
-# Codebasics_SQL_Project_Challenge-
+# Atliq Hardware : A financial and sales analysis
 
 This repository consists of codebasics resume project challenge #4. This challenge is about Providing Insights to Management in Consumer Goods Domain.
 
